@@ -99,13 +99,11 @@
 <h2 align="center" style="color: #E2E8F0;">📊 GitHub Analytics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaqlain124321-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1" height="180" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=/muhammadsaqlain124321-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/muhammadsaqlain124321-creator&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaqlain124321-creator&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=/muhammadsaqlain124321-creator&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaqlain124321-creator&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1" />
 </div>
 
 
