@@ -4,7 +4,8 @@
 </p>
 
   <div style="background: linear-gradient(135deg, #0B1120 0%, #1E3A8A 100%); padding: 50px 20px; border-radius: 24px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <h1 style="color: #FFFFFF; font-size: 52px; margin: 0; font-family: 'Segoe UI', sans-serif;">Muhammad Saqlain</h1>
+    <h1 style="color: #FFFFFF; font-size: 52px; margin: 0; font-family: 'Segoe UI', sans-serif;">
+      Hey Muhammad Saqlain</h1>
     <p style="color: #002907; font-size: 22px; margin: 12px 0 0;">Full Stack Developer · MERN Expert </p>
   </div>
 </div>
