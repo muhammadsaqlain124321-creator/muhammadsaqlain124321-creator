@@ -107,10 +107,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=/muhammadsaqlain124321-creator&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=/muhammadsaqlain124321-creator&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
-</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadsaqlain124321-creator&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaqlain124321-creator&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="95%" />
