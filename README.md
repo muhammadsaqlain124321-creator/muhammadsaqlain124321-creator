@@ -114,7 +114,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/muhammadsaqlain124321-creator&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="95%" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ali-Anjum&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="95%" />
+</div>
 <br />
 
 <!-- Connect -->
